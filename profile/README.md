@@ -20,28 +20,29 @@ New York, New York <br >
 | 1:00 p.m. – 1:30 p.m.	| 🚩 Checkpoint 2  | 12:30 p.m. – 3:00 p.m. | 🎤 Datathon Team Presentations |
 | 2:00 p.m. – 2:30 p.m.| 🛠️ Datathon Teamwork |  | |
 | 2:30 p.m. – 3:00 p.m. | 🚩 Checkpoint 3| | |
-| 3:00 p.m. – 4:00 p.m.| 🛠️ Datathon Teamwork  | | 📝 Judging
-| 4:00 p.m. – 5:00 p.m. | 📝 Team Report | | 👋 Closing session
+| 3:00 p.m. – 4:00 p.m.| 🛠️ Datathon Teamwork  | | 📝 Judging |
+| 4:00 p.m. – 5:00 p.m. | 📝 Team Report | | 👋 Closing session |
 
 
-Mentors have 5 minutes per table during the checkpoint. Please expect mentors to swing by. Don't feel pressured to keep them for the full 5 minutes. If you don't have any questions for this mentor, please feel free to let them move on.
+Mentors have 5 minutes per table during the checkpoint. Please expect mentors to swing by. Don't feel pressured to keep them for the full 5 minutes. If you don't have any questions for this mentor, please feel free to let them move on.  <br>
+Please feel free to flag down mentors during the Teamwork sessions.  <br>
 
-Please feel free to flag down mentors during the Teamwork sessions.
-
-**Sat, 5 Aug**
-
-By Checkpoint 1, please be ready to discuss your final question.
-
-By Checkpoint 2, please be ready to discuss your variables + analytical plan.
-
-By Checkpoint 3, please be ready to discuss your analytical plan. You probably should have your dataset cleaned by this point in time.
+**Sat, 5 Aug**  <br>
+By Checkpoint 1, please be ready to discuss your final question. <br>
+By Checkpoint 2, please be ready to discuss your variables + analytical plan. <br>
+By Checkpoint 3, please be ready to discuss your analytical plan. You probably should have your dataset cleaned by this point in time.  <br>
 
 
-**Sun, 6 Aug**
+**Sun, 6 Aug**  <br>
+By Checkpoint 4, please be ready to discuss your results + presentation. <br>
+By Checkpoint 5, please be ready to discuss your presentation.  <br>
 
-By Checkpoint 4, please be ready to discuss your results + presentation.
-
-By Checkpoint 5, please be ready to discuss your presentation.
+---
+## Files  <br>
+This is a current link to the files under development. Feel free to make a copy or reference a copy in GitHub. 
+- [general welcome](https://colab.research.google.com/drive/1p6q5-zdW9GXLhweWRA4dNQlvsYoU1PUP) <br>
+- [welcome - mentors!](https://colab.research.google.com/drive/1zVmEMRrt3s49EYqU0UIGH1FbaFi5RLqc) <br>
+- [welcome - students!](https://colab.research.google.com/drive/1r6kKChuDhftaK_XF5rYFJB66qO1zHDo3) <br>
 
 ---
 
@@ -59,6 +60,8 @@ By Checkpoint 5, please be ready to discuss your presentation.
  | Team 8 |  Sicheng Hao, Keagan Yap, Maia Sporn, Renata Proa |  Jamie Lynn Sturgill, Jennifer S. Lee, Mona K. Patel |
  | Team 9 |  Adrien Carrel, Tien Bui, Yugang Jia |  Damien Archbold, Ivor S. Douglas, Peter E. Morris |
  | Team 10 |  Sabine Friedrich, David Restrepo, Suraj Shourie |  Amy L. Dzierba, Patrick M Wieruszewski, Samar Mehta |
+
+--- 
 
 
 <!-- ## Hi there 👋 -->
