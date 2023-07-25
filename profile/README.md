@@ -57,7 +57,7 @@ By Checkpoint 5, please be ready to discuss your presentation.
  | Team 6 |  Preethi Krishnan, Marianna Leite, Seyedeh Somayyeh Mousavi, Shira Zilberstein |  Anirban Bhattacharyya, Jerry J. Zimmerman, Jonathan Oster |
  | Team 7 |  Chrystinne Chrystinne, Morris Nguyen, Nada Hammouda |  Konstantin Millerman, Luke Andrea, Sachin Mehta |
  | Team 8 |  Sicheng Hao, Keagan Yap, Maia Sporn, Renata Proa |  Jamie Lynn Sturgill, Jennifer S. Lee, Mona K. Patel |
- | Team 9 |  Adrien Carrelc, Tien Bui, Yugang Jia |  Damien Archbold, Ivor S. Douglas, Peter E. Morris |
+ | Team 9 |  Adrien Carrel, Tien Bui, Yugang Jia |  Damien Archbold, Ivor S. Douglas, Peter E. Morris |
  | Team 10 |  Sabine Friedrich, David Restrepo, Suraj Shourie |  Amy L. Dzierba, Patrick M Wieruszewski, Samar Mehta |
 
 
