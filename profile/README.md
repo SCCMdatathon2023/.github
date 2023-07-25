@@ -45,14 +45,6 @@ By Checkpoint 5, please be ready to discuss your presentation.
 
 ---
 
-
-Opening
-- Prizes
-- judging criteria
-- working principles
-
-
----
 ## Teams - Aug 2023
 
 | Team | Data Science | Clinical |
