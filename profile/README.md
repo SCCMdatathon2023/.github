@@ -44,6 +44,8 @@ This is a current link to the files under development. Feel free to make a copy 
 - [welcome - mentors!](https://colab.research.google.com/drive/1zVmEMRrt3s49EYqU0UIGH1FbaFi5RLqc) <br>
 - [welcome - students!](https://colab.research.google.com/drive/1r6kKChuDhftaK_XF5rYFJB66qO1zHDo3) <br>
 
+[SCCMdatathon general repository](https://github.com/SCCMdatathon)
+
 ---
 
 ## Teams - Aug 2023
